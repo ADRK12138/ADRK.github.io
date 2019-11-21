@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: adrk12138/adrk12138.github.io
 github_url: https://github.com/adrk12138
 url: https://adrk12138.github.io/
-enforce_ssl: ityouknow.com
+
 
 ## Gem
 plugins:
